@@ -54,7 +54,7 @@ npm start
 ```
 Ready? open Postman and go to `http://localhost:3003/products/`
 
-- #### POST method
+- ### POST method
 
 <p align="center">
     <img src="img/repository/post/step-1.png" width="700">
@@ -79,7 +79,7 @@ In the column 'VALUE', the referring description.
 
 We can press to send.
 
-- #### GET method
+- ### GET method
 
 <p align="center">
     <img src="img/repository/get/step-1.png" width="700">
@@ -93,7 +93,7 @@ To view all registered products, use the 'GET' method.
 
 To filter a product, add a '/' and the corresponding ID.
 
-- #### DELETE method
+- ### DELETE method
 
 <p align="center">
     <img src="img/repository/delete/step-1.png" width="700">
