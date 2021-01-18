@@ -1,4 +1,5 @@
 <p align="center">
+    <img src="img/repository/banner/express-api.png">
 </p>
 
 ## :clipboard: Index
@@ -13,7 +14,7 @@
 ## :computer: Preview
 
 <p align="center">
-    <img src="" width="700">
+    <img src="img/repository/preview/browser-api.png" width="700">
 </p>
 
 ---
@@ -53,7 +54,7 @@ npm start
 ```
 Ready? open Postman and go to `http://localhost:3003/products/`
 
-#### - POST method
+- #### POST method
 
 <p align="center">
     <img src="img/repository/post/step-1.png" width="700">
@@ -92,7 +93,7 @@ To view all registered products, use the 'GET' method.
 
 To filter a product, add a '/' and the corresponding ID.
 
-#### DELETE method
+- #### DELETE method
 
 <p align="center">
     <img src="img/repository/delete/step-1.png" width="700">
