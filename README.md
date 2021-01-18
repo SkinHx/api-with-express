@@ -90,7 +90,21 @@ To view all registered products, use the 'GET' method.
     <img src="img/repository/get/step-2.png" width="700">
 </p>
 
+To filter a product, add a '/' and the corresponding ID.
 
+### DELETE method
+
+<p align="center">
+    <img src="img/repository/delete/step-1.png" width="700">
+</p>
+
+To delete a specific item, add a '/' and the corresponding ID again with the 'DELETE' method.
+
+<p align="center">
+    <img src="img/repository/delete/step-2.png" width="700">
+</p>
+
+Return to the 'GET' method and see if our product no longer exists in the database.
 
 ---
 
