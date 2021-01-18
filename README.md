@@ -53,6 +53,8 @@ npm start
 ```
 Ready? open Postman and go to `http://localhost:3003/products/`
 
+### POST method
+
 <p align="center">
     <img src="img/repository/post/step-1.png" width="700">
 </p>
@@ -75,6 +77,18 @@ The 'KEY' column will be the 'name' and 'price' attribute of our product.
 In the column 'VALUE', the referring description.
 
 We can press to send.
+
+<p align="center">
+    <img src="img/repository/get/step-1.png" width="700">
+</p>
+
+To view all registered products, use the 'GET' method.
+
+<p align="center">
+    <img src="img/repository/get/step-2.png" width="700">
+</p>
+
+
 
 ---
 
