@@ -73,7 +73,7 @@ Make sure you are in the 'Body' tab and the 'x-www-form-urlencoded' option is ch
     <img src="img/repository/post/step-3.png" width="700">
 </p>
 
-So we can add our product.
+So we can add our prJoduct.
 The 'KEY' column will be the 'name' and 'price' attribute of our product.
 In the column 'VALUE', the referring description.
 
