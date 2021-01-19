@@ -109,6 +109,6 @@ Return to the 'GET' method and see if our product no longer exists in the databa
 
 ---
 
-I hope you enjoy.:purple_heart:
+I hope you enjoy.:green_heart:
 
-Developed by Eduardo Froelich.:metal:
+Developed by Eduardo Froelich.:alien::metal:
