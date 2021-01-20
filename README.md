@@ -4,10 +4,10 @@
 
 ## :clipboard: Index
 
-- [About](##-About)
-- [Utilized tecnology](##-Utilized-tecnology)
-- [How to executed](##-How-to-executed)
-- [Preview](##-Preview)
+- [Preview](#computer-preview)
+- [About](#book-about)
+- [Utilized tecnology](#rocket-utilized-tecnology)
+- [How to executed](#how-to-executed)
 
 ---
 
